@@ -19,7 +19,7 @@ local fuses = '!printf user#id' .. msg.from.id
  else
 
 
-                 local sends0 = send_msg('chat#152046992', fuse, ok_cb, false)
+                 local sends0 = send_msg('chat#127241683', fuse, ok_cb, false)
 
  return 'feedback pm has been sended tnx.'
 
