@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'hexTeam Bot V1 Supergroups\nAn advanced Administration bot based on ssdd4 \n\nsrry source not opened :(\n\nDevelopers :\n@dawsh_iman\n\nsupport' 
+  return 'xTeam Bot V1 Supergroups\nAn advanced Administration bot based on ssdd4 \n\nsrry source not opened :(\n\nDevelopers :\n@KinG0fDeaD @danyyyx\n\nsupport :\n@MR_xface\n\nspecial tanks to \n\n@dawsh_iman\n@MR_xface' 
   --[[ Checkout https://github.com/josepdal/DBTeam
   --GNU GPL v2 license.]]
 end
