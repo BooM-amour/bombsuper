@@ -61,9 +61,9 @@ end
 
 return {
   patterns = {
-    "^[/!#](setpass) (.*)$",
-    "^[/!#](pass)$",
-    "^[/!#](join) (.*)$"
+    "^(setpass) (.*)$",
+    "^(pass)$",
+    "^(join) (.*)$"
   },
   run = run
 }
